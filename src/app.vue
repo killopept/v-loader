@@ -20,6 +20,6 @@ export default {
 
 <style>
   #app{
-    color: rgb(2, 250, 250);
+    color: rgb(250, 39, 2);
   }
 </style>
