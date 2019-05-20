@@ -1,5 +1,5 @@
 <template>
-  <div id= "app" @click = "handleClick">{{msg}}</div>
+  <div id= "app" @click = "handleClick">{{msg}}11</div>
 </template>
 
 <script>
